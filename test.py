@@ -11,3 +11,4 @@ if __name__ == '__main__':
     print("dev_old")
     print("for remote origin/main")
     print("pull")
+    print("push")
