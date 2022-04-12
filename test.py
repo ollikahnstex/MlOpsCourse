@@ -9,3 +9,4 @@ if __name__ == '__main__':
     print("master_fixed")
     print("dev")
     print("dev_old")
+    print("for remote origin/main)
